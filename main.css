@@ -5,3 +5,13 @@
     position: relative;
     width: 450px;
 }
+.clock-inner-container{
+    background: #fff;
+    border-radius: 50%;
+    position: absolute;
+    height: 350px;
+    left: 50%;
+    margin: -175px 0px 0px -175px;
+    top: 50%;
+    width: 350px;
+}
