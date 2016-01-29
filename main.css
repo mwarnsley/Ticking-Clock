@@ -1,1 +1,7 @@
-ECHO is on.
+#clock-container{
+    background: #000;
+    border-radius: 50%;
+    height: 450px;
+    position: relative;
+    width: 450px;
+}
